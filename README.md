@@ -26,4 +26,31 @@ This project demonstrates a professional **Sales Dashboard** developed using **P
 - Quarterly Filter (Q1 to Q4)
 - State Filter Dropdown
 
-## 📂 Files Included
+
+
+## 🧠 Learning Outcomes
+- Data modeling in Power BI
+- Custom DAX measures for KPIs
+- Creating slicers and interactivity
+- Using Donut, Bar, and Line charts for business intelligence
+- Dashboard storytelling for stakeholders
+
+## 🚀 Getting Started
+1. Download and open the `.pbix` file using Power BI Desktop.
+2. Use slicers (quarter, state) to interact with the dashboard.
+3. Explore relationships, visuals, and DAX formulas.
+
+## 📌 Tools Used
+- Power BI Desktop
+- Excel (for data source)
+- DAX (Calculated KPIs)
+
+## 👤 Author
+**Harsh Gupta**  
+Aspiring Data Analyst | Power BI Enthusiast  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+
+---
+
+⭐ Star this repository if you found the dashboard insightful.
+
